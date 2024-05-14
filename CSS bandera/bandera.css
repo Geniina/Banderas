@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.container {
+    width: 500px;
+    height: 325px;
+    background-color: black;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+#franja1 {
+    background-color: #f7c600;
+    width: 100%;
+    height: 225px;
+}
+
+#franja2 {
+    background-color: #012e86;
+    width: 100%;
+    height: 150px;
+}
+#franja3 {
+    background-color: #c20f2d;
+    width: 100%;
+    height: 150px;
+}
+
+#franja4 {
+    background-color: green;
+    display: inline-block;
+    width: 33%;
+    height: 325px;
+}
+
+#franja5 {
+    background-color: white;
+    display: inline-block;
+    width: 33%;
+    height: 325px;
+}
+
+#franja6 {
+    background-color: red;
+    display: inline-block;
+    width: 32%;
+    height: 325px;
+}
